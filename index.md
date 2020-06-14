@@ -1,3 +1,0 @@
-```
-$ func-ee [ˈfʌŋkiː] is building...
-```
